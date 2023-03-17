@@ -53,6 +53,12 @@
 
 ## Education:
 
+DeVry University
+Paramus, NJ
+Mulitmedia Design and Development Bachelors
+
+## References:
+
 ```
 Brittany hughes
 1800Flowers Website Marketing Manager
