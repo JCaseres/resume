@@ -36,34 +36,42 @@
 
 > **KPMG, MONTVALE NJ** -
 > 05/2017 – 05/2020
-
+>
 > As a web Producer at KPMG, I assisted with migrating their US Portal from a legacy version of SharePoint into SharePoint 2016. We moved over thousands of classified documents and created and managed new SharePoint sites for their site owners. We used UI/UX software like Adobe XD, Adobe InDesign, and InVision and Helped design search functionality for their Portal. My leadership at KPMG loved my ability to problem solve quickly and get things done no matter the issue.
 
 > **EQUITAS BROKERAGE GROUP, NEW BRUNSWICK, NJ** -
 > 07/2016 – 10/2016
-
+>
 > As a web developer at Equitas, I was responsible for creating well-structured sites for brokers and different types of clients using WordPress, HTML, CSS, and a bit of JS. Entry This was the first web design/development job I landed after graduating college. I learned a lot from this position.
 
 > **TORINO MAINTENANCE, LODI NJ** -
 > 08/2015 – 05/2017
-
+>
 > As a web developer at Equitas, I was responsible for creating well-structured sites for brokers and different types of clients using WordPress, HTML, CSS, and a bit of JS. Entry This was the first web design/development job I landed after graduating college. I learned a lot from this position.
 
 ---
 
 ## Education:
 **Brittany hughes**
+
 1800Flowers Website Marketing Manager
-Phone: 516-456-7573
+
+516-456-7573
 
 **Stephen Aguila**
+
 Passport Guru UI/UX lead designer 
-Phone: 551-404-5242
+
+551-404-5242
 
 **Keren Goldman**
+
 Former KPMG Leader
-Phone: 201-669-0884
+
+201-669-0884
 
 **Marcus Gigerick**
+
 KPMG Co-worker
-Phone: 973-907-4394
+
+973-907-4394
