@@ -54,7 +54,9 @@
 ## Education:
 
 DeVry University
+
 Paramus, NJ
+
 Mulitmedia Design and Development Bachelors
 
 ## References:
@@ -62,23 +64,19 @@ Mulitmedia Design and Development Bachelors
 ```
 Brittany hughes
 1800Flowers Website Marketing Manager
-516-456-7573
 ```
 
 ```
 Stephen Aguila
 Passport Guru UI/UX lead designer 
-551-404-5242
 ```
 
 ```
 Keren Goldman
 Former KPMG Leader
-201-669-0884
 ```
 
 ```
 Marcus Gigerick
 KPMG Co-worker
-973-907-4394
 ```
