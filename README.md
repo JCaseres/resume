@@ -47,7 +47,7 @@
 > **TORINO MAINTENANCE, LODI NJ** -
 > 08/2015 – 05/2017
 >
-> As a web developer at Equitas, I was responsible for creating well-structured sites for brokers and different types of clients using WordPress, HTML, CSS, and a bit of JS. Entry This was the first web design/development job I landed after graduating college. I learned a lot from this position.
+> I created this website for my father's small commercial cleaning business. I used Adobe Dreamweaver at the time but then updated it using Brackets, then used a CMS to create the current one we see today. Once I finished building the website, I also helped bring traffic to the site using SEO and advertisements. I made their social media accounts and managed them to help bring more traffic to the website.
 
 ---
 
