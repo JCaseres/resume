@@ -19,18 +19,19 @@
 * Adobe XD
 * SharePoint
 * CMS’s
+
 ---
 
 ## Experience:
 
 > **ENCORA TECHNOLOGIES, WEB PRODUCER** -
 > 03/2021 – 02/2023
-
+>
 > At Encora Technologies, I assisted 1800flowers.com in the web-producing position. I uploaded and managed product codes, pages, images, etc., using Contentstack, PIMS, Excel, Smartsheets, and Jira to troubleshoot and track upload requests.
 
 > **PASSPORT GURU, DESIGNER** -
 > 06/2019 – 08/2022
-
+>
 > I worked with a small team to create a traveling app using Adobe XD and Figma as a side project. We created multiple wireframes and designs on notebooks and software. We also brainstormed and used many references to achieve a great UI and UX that is up to today's standards while being unique and different from other applications.
 
 > **KPMG, MONTVALE NJ** -
