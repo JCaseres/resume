@@ -3,7 +3,9 @@
 ### 3 years of experience
 ### [Portfolio](https://jcaseres.github.io/)
 ### Email: JCaseres1393@gmail.com
+
 ---
+
 ## Skills & Abilities:
 * HTML
 * CSS
@@ -18,7 +20,9 @@
 * SharePoint
 * CMS’s
 ---
+
 ## Experience:
+
 > **ENCORA TECHNOLOGIES, WEB PRODUCER** -
 > 03/2021 – 02/2023
 
@@ -43,7 +47,9 @@
 > 08/2015 – 05/2017
 
 > As a web developer at Equitas, I was responsible for creating well-structured sites for brokers and different types of clients using WordPress, HTML, CSS, and a bit of JS. Entry This was the first web design/development job I landed after graduating college. I learned a lot from this position.
+
 ---
+
 ## Education:
 **Brittany hughes**
 1800Flowers Website Marketing Manager
