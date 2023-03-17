@@ -52,17 +52,17 @@
 ---
 
 ## Education:
-**Brittany hughes**
 
-1800Flowers Website Marketing Manager
 
-516-456-7573
+····**Brittany hughes**
+····1800Flowers Website Marketing Manager
+····516-456-7573
 
+```
 **Stephen Aguila**
-
 Passport Guru UI/UX lead designer 
-
 551-404-5242
+```
 
 **Keren Goldman**
 
