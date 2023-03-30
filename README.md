@@ -9,8 +9,9 @@
 ## Skills & Abilities:
 * HTML
 * CSS
-* JS
+* JavaScript
 * React
+* Redux
 * Git
 * Github
 * Jira
@@ -59,7 +60,7 @@ Paramus, NJ
 
 Mulitmedia Design and Development Bachelors
 
-## References:
+## References (Please request contact info if needed):
 
 ```
 Brittany hughes
@@ -77,6 +78,6 @@ Former KPMG Leader
 ```
 
 ```
-Marcus Gigerick
+Marcus Gigerich
 KPMG Co-worker
 ```
