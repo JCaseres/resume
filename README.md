@@ -19,7 +19,8 @@
 * Adobe Photoshop
 * Adobe XD
 * SharePoint
-* CMS’s
+* Akeno
+* Contentstack
 
 ---
 
