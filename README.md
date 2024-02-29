@@ -26,6 +26,11 @@
 
 ## Experience:
 
+> **ROBERT HALF, WEB CONTENT COORDINATOR** -
+> 09/2023 – Present
+>
+> In my role as a Web Content Coordinator at Robert Half, I collaborate with a dynamic team to oversee and enhance our intranet platform. Working closely with our business partners, I am responsible for updating pages, uploading diverse content including files, images, and text, as well as generating Google Analytics reports to gauge page performance within the company. Additionally, I have the opportunity to craft new pages and entire sites from inception. Each day presents unique challenges and opportunities in our fast-paced environment at Robert Half.
+
 > **ENCORA TECHNOLOGIES, WEB PRODUCER** -
 > 03/2021 – 02/2023
 >
